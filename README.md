@@ -20,9 +20,9 @@ A passionate Software Engineer with expertise in modern web development and a un
 
 ---
 
-### 🛠️ Tech & Tools
+## 🛠️ Tech & Tools
 
-- **🔤 Languages**
+### Programming Languages
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-EFD81C?style=flat-square&logo=javascript&logoColor=black" />
@@ -31,33 +31,43 @@ A passionate Software Engineer with expertise in modern web development and a un
   <img src="https://img.shields.io/badge/-SQL-E34F26?style=flat-square&logo=sql&logoColor=white" />
 </div>
 
-- **⚙️ Skills**
+### Skills
+
+- **Frontend Development**
 
 <div align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-90%25-61DAFB?style=flat-square&logo=react&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Vite-90%25-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-80%25-61DAFB?style=flat-square&logo=react&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Redux-60%25-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Query-60%25-FF4154?style=flat-square&logo=react-query&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-80%25-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material--UI-70%25-007FFF?style=flat-square&logo=mui&logoColor=white" />
 
-  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Material--UI-70%25-007FFF?style=flat-square&logo=mui&logoColor=white" />
+</div>
+
+- **Backend Development**
+
+<div align="center">
   <img src="https://img.shields.io/badge/Node.js-80%25-3C823B?style=flat-square&logo=node.js&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Express-80%25-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-70%25-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-60%25-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-70%25-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/Postgres-50%25-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-50%25-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</div>
 
-  <!-- Cloud & Tools -->
+- **Cloud & DevOps**
+
+<div align="center">
   <img src="https://img.shields.io/badge/AWS-40%25-F7B42C?style=flat-square&logo=amazon-aws&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-60%25-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-40%25-181717?style=flat-square&logo=github-actions&logoColor=white" />
+</div>
 
-  <!-- Testing -->
+- **Testing & Automation**
+
+<div align="center">
   <img src="https://img.shields.io/badge/Vitest-30%25-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-30%25-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-30%25-C21325?style=flat-square&logo=jest&logoColor=white" />
 </div>
 
 <br/>
