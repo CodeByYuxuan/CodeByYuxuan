@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    Driven by building scalable, user-centric web applications.
+    Driven by building scalable, user-centric web & mobile applications.
     <br/>
     Adaptable, collaborative, and always learning new technologies.
   </em>
