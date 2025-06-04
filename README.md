@@ -16,7 +16,7 @@
 
 ### 👨💻 About Me
 
-A passionate Software Engineer with expertise in modern web development and a unique blend of chemistry/computer science education. Currently expanding expertise in AWS, Docker, and modern testing (Vitest/Playwright) for robust solutions.
+Full Stack Developer specializing in React, Node.js, and cloud-native application development. Skilled at building scalable web and mobile apps using modern technologies like TypeScript, React Native, GraphQL, and Google Cloud. Proven ability to deliver performant UI and robust backend solutions, automate deployments with CI/CD, and implement AI-powered features. Passionate about shipping clean, production-ready code and collaborating in agile environments.
 
 ---
 
@@ -37,37 +37,46 @@ A passionate Software Engineer with expertise in modern web development and a un
 
 <div align="center">
   <img src="https://img.shields.io/badge/Vite-90%25-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-80%25-61DAFB?style=flat-square&logo=react&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/React-90%25-61DAFB?style=flat-square&logo=react&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/React%20Native-80%25-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-60%25-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Query-60%25-FF4154?style=flat-square&logo=react-query&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Material--UI-70%25-007FFF?style=flat-square&logo=mui&logoColor=white" />
 </div>
 
 - **Backend Development**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-80%25-3C823B?style=flat-square&logo=node.js&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Express-80%25-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-70%25-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-60%25-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-90%25-3C823B?style=flat-square&logo=node.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Express-90%25-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-70%25-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-70%25-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/PostgreSQL-50%25-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-70%25-FFB400?style=flat-square" />
 </div>
 
 - **Cloud & DevOps**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-40%25-F7B42C?style=flat-square&logo=amazon-aws&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-60%25-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-60%25-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20EC2-60%25-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-60%25-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-40%25-181717?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-70%25-181717?style=flat-square&logo=github-actions&logoColor=white" />
 </div>
 
 - **Testing & Automation**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Vitest-30%25-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-30%25-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-50%25-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-50%25-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+</div>
+
+- **Other Tools**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-90%25-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-70%25-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT%20API-60%25-10A37F?style=flat-square&logo=openai&logoColor=white" />
 </div>
 
 <br/>
