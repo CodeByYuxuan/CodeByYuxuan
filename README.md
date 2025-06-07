@@ -14,13 +14,13 @@
 
 ---
 
-### 👨💻 About Me
+### About Me
 
 Full Stack Developer specializing in React, Node.js, and cloud-native application development. Skilled at building scalable web and mobile apps using modern technologies like TypeScript, React Native, GraphQL, and Google Cloud. Proven ability to deliver performant UI and robust backend solutions, automate deployments with CI/CD, and implement AI-powered features. Passionate about shipping clean, production-ready code and collaborating in agile environments.
 
 ---
 
-## 🛠️ Tech & Tools
+## Tech & Tools
 
 > **Note:**  
 > Percentages reflect my self-assessed proficiency and practical experience with each technology.  
@@ -92,42 +92,7 @@ Full Stack Developer specializing in React, Node.js, and cloud-native applicatio
 
 ---
 
-### 📈 GitHub Stats
-
-<p>
-  <!-- GitHub Stats Card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=CodeByYuxuan&theme=white&hide_border=false&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-  <br/>
-
-  <!-- GitHub Streak Stats -->
-
-<img
-    src="https://nirzak-streak-stats.vercel.app/?user=CodeByYuxuan&theme=white&hide_border=false"
-    alt="GitHub Streak"
-  />
-<br/>
-
-  <!-- Top Languages Card -->
-
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByYuxuan&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    alt="Top Languages"
-  />
-
-</p>
-
----
-
-### ✍️ Dev Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&background=0D1117&font=58A6FF" />
-
----
-
-### 🤝 Let's Connect
+### Let's Connect
 
 <p style="color: #E6EDF3;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
