@@ -22,6 +22,15 @@ Full Stack Developer specializing in React, Node.js, and cloud-native applicatio
 
 ## 🛠️ Tech & Tools
 
+> **Note:**  
+> Percentages reflect my self-assessed proficiency and practical experience with each technology.  
+> - **90%:** Extensive experience, able to deliver complex solutions independently  
+> - **80%:** Solid experience, productive with minimal guidance  
+> - **70%:** Confident and productive in real projects  
+> - **60%:** Practical experience, comfortable with most standard tasks  
+> - **50%:** Familiar, able to use for basic tasks or with reference  
+
+
 ### Programming Languages
 
 <div align="center">
